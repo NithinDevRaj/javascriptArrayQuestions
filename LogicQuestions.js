@@ -38,14 +38,14 @@
 // console.log(requiredArray([7, 9, 0, -2], -3));
 
 // Write a simple JavaScript program to join all elements of the following array into a string.
-const myArray = ["I", "love", "coding"];
+// const myArray = ["I", "love", "coding"];
 
 // let concat = (arr) => {
 //   const hoi = arr.reduce((sum, index) => (sum += index), " ");
 //   return hoi;
 // };
-let concat =(arr)=>{
-  return arr.join(' ');
-}
+// let concat =(arr)=>{
+//   return arr.join(' ');
+// }
 
-console.log(concat(myArray));
+// console.log(concat(myArray));
