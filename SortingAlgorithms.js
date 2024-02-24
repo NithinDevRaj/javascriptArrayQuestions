@@ -1,5 +1,7 @@
 // BubbleSort O(n2)
-
+// Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, 
+// compares adjacent elements, and swaps them if they are in the wrong order. The pass through the 
+// list is repeated until the list is sorted
 // const BubbleSort = (arr) => {
 //   let swap = true;
 

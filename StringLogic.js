@@ -62,7 +62,7 @@ function camelize(str) {
         }
     }).join('');
 }
-
+ 
 console.log(camelize('Nithin raj'));
 
 
